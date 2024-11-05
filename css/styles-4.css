@@ -1,0 +1,53 @@
+body {
+    background-color: #fff;
+  }
+  
+  .login-form {
+  display: inline-flex;
+  padding: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  }
+  
+  input {
+  display: flex;
+  width: 360px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  label {
+  display: block;
+  
+  
+  color: #2E2F42;
+  
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+  }
+  
+  button {
+  
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+  
+  display: flex;
+  padding: 8px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  
+  border-radius: 8px;
+  background: #4E75FF;
+  }
+    

@@ -1,0 +1,19 @@
+body {
+    background-color: #fff;
+  }
+  
+  img {
+    display: block;
+    height: 100%;
+    width: 360px;
+  }
+  
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px 24px;
+  } 
+  
+  li { 
+    list-style-type: none;
+  }
